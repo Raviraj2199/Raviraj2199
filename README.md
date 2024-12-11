@@ -33,5 +33,5 @@
 
 ⚡ Fun fact:
 - I combined my passion for data and strategy as a state-level chess player—planning steps ahead is in my nature!
-- - I served under National Cadet corps (Ministry of Defense India) as Company sergent major
+- I served under National Cadet corps (Ministry of Defense India) as Company sergent major
 - I enjoy exploring real-world applications of analytics in sports, finance, and automation.
