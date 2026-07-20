@@ -106,11 +106,33 @@ Python • TensorFlow • CNN • OpenCV
 ### IT Support Technician
 **Harvey Norman Ireland**
 
-- ⭐ Ranked #1 performer nationally
-- ⭐ Star Employee Award
-- Reduced service backlog by **76.7%**
-- Increased CSAT from **56% → 93%**
-- Managed Microsoft 365 & Active Directory
+Delivered technical support across retail operations while improving service quality, operational efficiency, and customer satisfaction. Recognized for outstanding performance and consistent delivery.
+
+Recognized for consistently delivering exceptional customer service, demonstrating initiative, and contributing positively to the team.
+
+⭐ **Star Employee Award**
+
+Awarded for outstanding performance, leadership, and maintaining one of the highest service standards within the organization.
+
+### Key Achievements
+
+• Ranked as the **#1 performer** within the technical support team based on key performance metrics.
+
+• Reduced the technical support backlog by **76.7%**, significantly improving response and resolution times.
+
+• Increased customer satisfaction scores from **56% to 93%** by delivering faster and higher-quality technical support.
+
+• Reduced outstanding supplier credit claims by **90%** through improved coordination and issue resolution.
+
+• Administered **Microsoft 365**, **Active Directory**, user accounts, device configuration, and hardware troubleshooting.
+
+• Resolved software, hardware, and network issues while ensuring excellent customer experiences.
+
+• Collaborated with cross-functional teams to improve internal processes and operational efficiency.
+
+**Technologies Used**
+
+Active Directory • Microsoft 365 • ServiceNow • Windows • Networking • Hardware Troubleshooting
 
 ---
 
@@ -119,13 +141,33 @@ Python • TensorFlow • CNN • OpenCV
 
 Worked on a large-scale banking migration project involving:
 
-- 200+ ETL pipelines
-- 15 business domains
-- 1B+ records
-- SAS → Snowflake migration
-- Python automation
-- Power BI reporting
-- CI/CD deployment
+- Worked as part of a data engineering team supporting a large banking client's migration from legacy SAS-based systems to the Snowflake cloud data platform. My role focused on designing, validating, and automating enterprise data pipelines while ensuring data accuracy and business continuity throughout the migration.
+
+### Awards & Recognition
+
+🏆 **Bright Star Award**
+
+**Key Contributions**
+
+• Built and maintained **200+ ETL pipelines** to extract, transform, and load data into Snowflake.
+
+• Supported the migration of **15 business domains**, including customer, finance, risk, and operations data.
+
+• Processed and validated **over 1 billion records**, ensuring high data quality and consistency between legacy and cloud platforms.
+
+• Developed **Python automation scripts** that significantly reduced manual validation work, cutting effort by approximately **80%**.
+
+• Created SQL-based reconciliation checks to identify and resolve data mismatches, reducing post-migration discrepancies by **30%**.
+
+• Designed interactive **Power BI and Tableau dashboards** that allowed stakeholders to monitor migration progress, data quality, and project KPIs in real time.
+
+• Worked with AWS cloud services and Snowflake to develop scalable, high-performance data solutions.
+
+• Collaborated daily with business analysts, QA teams, and senior data engineers using Agile methodologies, JIRA, Git, and CI/CD practices.
+
+**Technologies Used**
+
+Snowflake • Python • SQL • AWS • Power BI • Tableau • Git • JIRA • CI/CD • ETL • Data Warehousing
 
 ---
 
