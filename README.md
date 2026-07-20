@@ -153,7 +153,7 @@ Worked on a large-scale banking migration project involving:
 
 • Supported the migration of **15 business domains**, including customer, finance, risk, and operations data.
 
-• Processed and validated **over 1 billion records**, ensuring high data quality and consistency between legacy and cloud platforms.
+• Processed and validated **over billions of records**, ensuring high data quality and consistency between legacy and cloud platforms.
 
 • Developed **Python automation scripts** that significantly reduced manual validation work, cutting effort by approximately **80%**.
 
