@@ -155,7 +155,7 @@ I'm currently building projects around:
 
 ## 📫 Connect With Me
 
-LinkedIn: *(Add your profile link)*
+LinkedIn: https://www.linkedin.com/in/raviraj-bhandari/
 
 Email: braviraj2199@gmail.com
 
