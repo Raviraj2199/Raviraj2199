@@ -1,37 +1,164 @@
-# 👋 Hi, I'm Raviraj Bhandari
+# Hi there 👋 I'm Raviraj Bhandari
 
-🔭 I’m currently working on:
-- Building ETL pipelines and automating data flows with Snowflake and SAS.
-- Developing machine learning models for data-driven business insights.
-- Creating interactive dashboards and visualizations with Power BI and SPSS.
+🎓 MSc Business Analytics (First Class Honours) | University of Galway
 
-🌱 I’m currently learning:
-- Advanced business analytics techniques, including Solver and Excel-based optimizations.
-- Data storytelling and visualization best practices using Power BI and Tableau.
-- Cloud infrastructure for scalable data analytics on Google Cloud and AWS.
+💻 Data Engineer • Data Analyst • Business Analyst
 
-👯 I’m looking to collaborate on:
-- Data analytics projects that transform raw data into actionable insights.
-- Business intelligence solutions with interactive dashboards and reporting tools.
-- Predictive analytics models to solve real-world business challenges.
+I enjoy solving business problems with data by building scalable pipelines, automating workflows, and creating dashboards that turn complex information into actionable insights.
 
-🤔 I’m looking for help with:
-- Expanding my expertise in advanced machine learning and AI for business use cases.
-- Understanding niche analytics tools like Alteryx or Looker.
-- Contributions to open-source projects in analytics and data science.
+---
 
-💬 Ask me about:
-- Data analytics workflows: From data wrangling to dashboard delivery.
-- Cloud and automation tools like Snowflake, AWS, and Google Cloud.
-- My experience working on business-critical analytics projects at Stratacent and beyond.
+## 👨‍💻 About Me
 
-📫 How to reach me:
-- Email: raviraj21990886@gmail.com
-- LinkedIn: [Raviraj Bhandari](https://www.linkedin.com/in/raviraj-bhandari-678033162/)
+- 📍 Based in Galway, Ireland
+- 🎓 MSc Business Analytics (2025)
+- ☁️ SnowPro Core & SnowPro Advanced Certified
+- 📊 Microsoft PL-300 Power BI Certified
+- 💡 Passionate about Data Engineering, Analytics, Cloud Technologies, and Business Intelligence
+- 🌱 Currently learning advanced Data Engineering, Azure Data Platform, and Machine Learning
 
-😄 Pronouns: He/Him
+---
 
-⚡ Fun fact:
-- I combined my passion for data and strategy as a state-level chess player—planning steps ahead is in my nature!
-- I served under National Cadet corps (Ministry of Defense India) as Company sergent major
-- I enjoy exploring real-world applications of analytics in sports, finance, and automation.
+## 🛠 Tech Stack
+
+### Languages
+- Python
+- SQL
+- PowerShell
+- JavaScript
+
+### Data Engineering
+- Snowflake
+- ETL / ELT
+- Data Warehousing
+- Data Validation
+- Data Migration
+- AWS
+- GCP
+
+### Analytics
+- Power BI
+- Tableau
+- DAX
+- Data Modelling
+- KPI Dashboards
+
+### Databases
+- Snowflake
+- SQL Server
+- PostgreSQL
+
+### Tools
+- Git
+- GitHub
+- GitKraken
+- JIRA
+- ServiceNow
+- Active Directory
+- Microsoft 365
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Snowflake Data Warehouse & Automated ETL
+Built an end-to-end data pipeline using Python, AWS and Snowflake that:
+
+- Processes 50M+ records
+- Automates validation
+- Performs reconciliation
+- Improves data quality
+- Reduces manual effort
+
+**Tech Stack**
+
+Python • Snowflake • AWS • SQL
+
+---
+
+### 📈 Executive KPI Dashboard
+
+Developed interactive Power BI dashboards providing:
+
+- Executive reporting
+- KPI tracking
+- Risk monitoring
+- Business insights
+
+**Tech Stack**
+
+Power BI • DAX • SQL • Data Modelling
+
+---
+
+### 😊 Emotion Recognition using Deep Learning
+
+Published research project using CNNs and Transfer Learning for facial emotion recognition.
+
+**Tech Stack**
+
+Python • TensorFlow • CNN • OpenCV
+
+---
+
+## 💼 Professional Experience
+
+### IT Support Technician
+**Harvey Norman Ireland**
+
+- ⭐ Ranked #1 performer nationally
+- ⭐ Star Employee Award
+- Reduced service backlog by **76.7%**
+- Increased CSAT from **56% → 93%**
+- Managed Microsoft 365 & Active Directory
+
+---
+
+### Associate Developer (Data Engineering)
+**Stratacent**
+
+Worked on a large-scale banking migration project involving:
+
+- 200+ ETL pipelines
+- 15 business domains
+- 1B+ records
+- SAS → Snowflake migration
+- Python automation
+- Power BI reporting
+- CI/CD deployment
+
+---
+
+## 🏆 Certifications
+
+- SnowPro Core Certification
+- SnowPro Advanced Certification
+- Microsoft Power BI PL-300
+- AWS (Learning)
+
+---
+
+## 📈 GitHub Goals
+
+I'm currently building projects around:
+
+- Data Engineering
+- Analytics Engineering
+- Modern Data Stack
+- Snowflake
+- Azure
+- Machine Learning
+- Python Automation
+- Dashboard Development
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: *(Add your profile link)*
+
+Email: braviraj2199@gmail.com
+
+---
+
+> "Turning data into meaningful business decisions through engineering, analytics, and automation."
